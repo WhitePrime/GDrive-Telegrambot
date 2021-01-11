@@ -1,6 +1,6 @@
 class Creds(object):
-    TOKEN = "1126750432:AAF5IwVsZuIWGQ-rIcFPmiecE1OGSDbt7cQ"
-    CLIENT_ID = "client id from google cloud console"
-    CLIENT_SECRET = "client secret from google cloud console"
-    PATH_ID = "folder id of the gdrive folder in which the bot will upload its files"
-    USER_ID = "your telegram chat id"
+    TOKEN = "1514708884:AAF-vhjWuE6bXv8-ti7XPJqcX2wJngeZNYU"
+    CLIENT_ID = "73978355132-basq3in7ug8fe35saast5p7i2mfnp45m.apps.googleusercontent.com"
+    CLIENT_SECRET = "9ffflPfc2N2O_SX4zRLw5yVW"
+    PATH_ID = "1dwIPTdfoLFSqDJJHT9niKgvMej0dD-KN"
+    USER_ID = "1044687536"
